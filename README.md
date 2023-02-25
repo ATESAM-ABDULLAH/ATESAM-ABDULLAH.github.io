@@ -19,7 +19,7 @@ The portfolio site is organized into several sections accessible from the naviga
 - Projects: In this section, you can find information about my previous projects, including descriptions and links to live demos and GitHub repositories.
 - Contact: This section provides a form for contacting me directly.
 
-## Using the Site
+## Using the Site 
 
 The site is designed to be user-friendly and easy to navigate. You can use the navigation bar at the top of the page to access different sections of the site. Additionally, on the Home and Projects pages, you can click on the project images to access more detailed information about each project.
 
